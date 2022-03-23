@@ -3,6 +3,12 @@
 <p> aspire is a Developer from the UK </p>
 
 
+---
+layout: page
+title: About me
+subtitle: Who I am
+---
+
 ### Frontend Technologies
 
 <div>
@@ -22,9 +28,11 @@
 ### Tools
 
 <div>
+  <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
 </div>
+
   
   
 #
