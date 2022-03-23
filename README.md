@@ -3,12 +3,6 @@
 <p> aspire is a Developer from the UK </p>
 
 
----
-layout: page
-title: About me
-subtitle: Who I am
----
-
 ### Frontend Technologies
 
 <div>
