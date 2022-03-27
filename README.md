@@ -23,12 +23,8 @@
   <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
   <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
 </div> 
-#
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aspiredevelops&show_icons=true&theme=radical&count_private=true)
-#
-  
+
+#  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspiredevelops)](https://github.com/aspiredevelops/github-readme-stats)
 #
-  
 [![wakatime](https://wakatime.com/badge/user/1c6bf388-c17b-4662-acc3-4be0bcd9206b.svg)](https://wakatime.com/@1c6bf388-c17b-4662-acc3-4be0bcd9206b)
