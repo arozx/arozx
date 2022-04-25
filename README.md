@@ -21,7 +21,7 @@
   <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
   <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
-  <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
+  <img src ="./images/git.png" alt="Git logo" width="5%" title='Git'/>
 </div> 
 
 #  
