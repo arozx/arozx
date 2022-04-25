@@ -2,6 +2,14 @@
 <!--- Emoji Sheet - https://www.webfx.com/tools/emoji-cheat-sheet/ --->
 <p> aspire is a Developer from the UK </p>
 
+### Tools
+<div>
+  <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
+  <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
+  <img src ="./images/git.png" alt="Git logo" width="5%" title='Git'/>
+</div> 
+
 ### Frontend Technologies
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
@@ -16,12 +24,9 @@
   <img src ="./images/flask.svg" alt="Flask logo" width="5%" title='Flask'/>
 </div>
   
-### Tools
+### cloud
 <div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
-  <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
-  <img src ="./images/git.png" alt="Git logo" width="5%" title='Git'/>
+  <img src ="./images/oracle-cloud.png" alt="Oracle cloud" width="5%" title='oracle cloud'/>
 </div> 
 
 #  
