@@ -8,10 +8,7 @@ Welcome to my GitHub profile! I'm a final-year A-level student with over a decad
 - **Penetration Testing & Reverse Engineering:** Ethical hacking, proof of concepts
 - **Backend Engineering:** Scalable systems, automation, and neural networks training
 
-## 📈 GitHub Stats
-![Arozx's GitHub stats](https://github-readme-stats.vercel.app/api?username=arozx&show_icons=true&theme=radical)
-
-## 🔧 Badges for Most-Used Languages
+## 🔧 Most-Used Languages
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
