@@ -1,27 +1,29 @@
-[![wakatime](https://wakatime.com/badge/user/1c6bf388-c17b-4662-acc3-4be0bcd9206b.svg)](https://wakatime.com/@1c6bf388-c17b-4662-acc3-4be0bcd9206b)
-### Tooling & Cloud
-<div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
-  <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
-  <img src ="./images/git.png" alt="Git logo" width="5%" title='Git'/>
-  <img src ="./images/oracle-cloud.png" alt="Oracle cloud" width="8%" title='oracle cloud'/>
-</div> 
+# Hi, I'm Jack Cooke! 👋
 
-### Frontend
-<div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
-  <img src ="./images/sass.svg" alt="SASS logo" width="3%" title='SASS'/>
-  <img src ="./images/javascript.svg" alt="JAVASCRIPT logo" width="3%" title='JAVASCRIPT'/>
-</div>
+Welcome to my GitHub profile! I'm a final-year A-Level student with over a decade of coding experience specializing in backend development, reverse engineering, and cybersecurity. Here’s a bit more about me and my work:
 
-### Backend  
-<div>
-    <img src ="./images/flask.svg" alt="Flask logo" width="5%" title='Flask'/>
-    <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-<div>
-  
-  
-#  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arozx)](https://github.com/arozx/github-readme-stats)
+## 🔑 Key Skills
+- **Languages:** Python, Java, C, JavaScript
+- **DevOps & Cloud:** CI/CD pipelines, GitHub, Terraform, Oracle Cloud
+- **Penetration Testing & Reverse Engineering:** Ethical hacking, proof of concepts
+- **Backend Engineering:** Scalable systems, automation, and neural networks training
+
+## 📈 GitHub Stats
+![Arozx's GitHub stats](https://github-readme-stats.vercel.app/api?username=arozx&show_icons=true&theme=radical)
+
+## 🔧 Badges for Most-Used Languages
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+
+## 🌟 Featured Projects
+- **[Minecraft Hacks](https://github.com/arozx/minecraft_hacks):** Developed a custom Minecraft client with mods that bypass checks.
+- **[Chess Engine](https://github.com/arozx/a_level_project):** Built with PyTorch and Qt5, this AI-powered chess engine was part of my A-Level coursework.
+- **[Obsidian Plugin](https://github.com/arozx/obsidian_plugin):** Created a popular plugin for Obsidian, now used by over 4,000 users.
+
+## 📫 Let's Connect!
+- LinkedIn: [Jack Cooke](https://linkedin.com/in/jackecooke)
+- Mastodon: [@arozx@infosec.exchange](https://infosec.exchange/@arozx)
+
+Thanks for stopping by! Feel free to explore my repositories and reach out for collaboration on open-source and cybersecurity projects!
