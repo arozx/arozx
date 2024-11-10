@@ -19,8 +19,7 @@ Welcome to my GitHub profile! I'm a final-year A-level student with over a decad
 
 ## 🌟 Featured Projects
 - **[Chess Engine](https://github.com/arozx/a_level_project):** Built with PyTorch and Qt5, this AI-powered chess engine was part of my A-Level coursework.
-- **[Pi Wars 2024](https://github.com/felstedrobotics/piwars2024)**  
-   Felsted Robotics developed a robotics project for the Pi Wars 2024 competition. The project incorporates machine learning and robotics algorithms for autonomous control.
+- **[Pi Wars 2024](https://github.com/felstedrobotics/piwars2024)** Felsted Robotics developed a robotics project for the Pi Wars 2024 competition. The project incorporates machine learning and robotics algorithms for autonomous control.
 - **[Obsidian Plugin](https://github.com/arozx/obsidian_plugin):** Created a popular plugin for Obsidian, now used by over 4,000 users.
 - **[Minecraft Hacks](https://github.com/arozx/minecraft_hacks):** Developed a custom Minecraft client with mods that bypass checks.
 
