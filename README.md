@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm a Computer Science Student with around a decad
 - **Penetration Testing & Reverse Engineering:** Ethical hacking, Reverse engineering
 - **Backend Engineering:** Scalable systems, Automation, and Neural Networks
 
+<!-- Shields from: https://github.com/inttter/md-badges -->
 ## 🔧 Most-Used Languages
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 ## 🌟 Featured Projects
 - **[Game Engine](https://github.com/arozx/voxels):** Currently working on a C++ Game engine for OpenGL and Vulkan optimised for voxel-based rendering.
