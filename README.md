@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a Computer Science Student with around a decad
 - **[Game Engine](https://github.com/arozx/voxels):** Currently working on a C++ Game engine for OpenGL and Vulkan optimised for voxel-based rendering.
 - **[Chess Engine](https://github.com/arozx/a_level_project):** Built with PyTorch and Qt5, this AI-powered chess engine was part of my A-Level coursework.
 - **[Pi Wars 2024](https://github.com/felstedrobotics/piwars2024)** Developed a robotics project for the Pi Wars 2024 competition. The project incorporates machine learning and robotics algorithms for autonomous control.
-- **[Obsidian Plugin](https://github.com/arozx/obsidian_plugin):** Created a popular Obsidian plugin with over 5,000 downloads.
+- **[Obsidian Plugin](https://github.com/arozx/obsidian_tokyo-night-storm)** Created a popular Obsidian plugin with over 5,000 downloads.
 - **[Minecraft Hacks](https://github.com/arozx/minecraft_hacks):** Developed a custom Minecraft client with mods that bypass checks.
 
 ## 📫 Let's Connect!
